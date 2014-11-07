@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 Mongo bongo!
+=======
+Jalla jalla
+Balla malla hmm
+>>>>>>> MegaFeature1

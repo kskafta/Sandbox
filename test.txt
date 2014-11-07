@@ -1,2 +1,5 @@
 Sweet Mama
+<<<<<<< HEAD
 Hello Baby
+=======
+>>>>>>> MegaFeature1
